@@ -60,4 +60,4 @@ The following items are all the things I changed in both the index.html file, an
 
  # Link to deployed site
 
- 
+ https://liam-a-34.github.io/october-17-bootcamp-challenge/
